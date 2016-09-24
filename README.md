@@ -1,6 +1,6 @@
 # UK International keyboard for Chromebook (with dead keys)
 
-I wrote this extension to allow the use of accents (or diacritical marks) when using a UK keyboard in a Chromebook. For example:
+I wrote this extension to allow the use of accents (or diacritical marks) when using a UK keyboard in Chromebook. For example:
 
 á é ã ç à ü ê
 
