@@ -23,3 +23,5 @@ Steps to use:
 6) If you look in the bottom right-hand corner of the screen you'll see an indicator noting which keyboard you're using. You can switch to UK International there
 
 Happy writing-with-accents :-)
+
+_If you need a keyboard layout for Windows or MacOS, have a look here: https://sourceforge.net/projects/ukikl/_
